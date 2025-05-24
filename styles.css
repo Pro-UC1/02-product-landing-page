@@ -13,6 +13,7 @@ body {
 .hero {
   text-align: center;
   background-color: #eaf6ff; /* soft light blue background */
+  padding: 24px;
 }
 
 .hero img {
